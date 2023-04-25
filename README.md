@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adinramaar20
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Back-End Feveloper
+- 🌱 I’m currently learning NodeJS & PHP
 
 <!---
 adinramaar20/adinramaar20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
