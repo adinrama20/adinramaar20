@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adinramaar20
-- 👀 I’m interested in Back-End Feveloper
+- 👀 I’m interested in Back-End Developer
 - 🌱 I’m currently learning NodeJS & PHP
 
 <!---
