@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adinramaar20
+- 👋 Hi, I’m Adin Rama Ariyanto Putra
 - 👀 I’m interested in Back-End Developer
 - 🌱 I’m currently learning NodeJS & PHP
 
